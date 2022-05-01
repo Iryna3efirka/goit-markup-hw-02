@@ -105,6 +105,9 @@ body {
 
 /* EMPLOYEES */
 
+.employees {
+    background-color: #F5F4FA;
+}
 .employees-list-name {
     font-weight: 500;
     font-size: 16px;
