@@ -78,6 +78,10 @@ body {
     color: #FFFFFF;
     cursor: pointer;
 }
+.modal-btn:hover,
+.modal-btn:focus {
+    background-color: #188CE8;
+}
 /* SERVICES*/
 
 .service-title {
